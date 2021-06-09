@@ -17,7 +17,7 @@ I chose to compare an optimal return portfolio against an equally weighted portf
 <img width="930" alt="Portfolio PO" src="https://user-images.githubusercontent.com/83718882/121433109-8cfb3100-c949-11eb-8c1a-ecdf26d554c7.png">
 
 
-Next I run a Fama French 4 factor simulation on two portfolios, equal weight and optimal weight to determine the most effective trading strategy. To further this analysis it would be useful to build models for other trading strategies. Additionally, selecting stocks using a non-random method would allow for greater real world implications to be drawn from it.
+Next I run a Fama French 4 factor simulation on two portfolios, equal weight and optimal weight to determine the most effective trading strategy.
 
 
 ```
@@ -47,3 +47,6 @@ Skew:                           0.183   Prob(JB):                        0.928
 Kurtosis:                       2.847   Cond. No.                         64.1
 ==============================================================================
 ```
+
+**Conclusion**
+To further this analysis it would be useful to build models for other trading strategies. Additionally, selecting stocks using a non-random method would allow for greater real world implications to be drawn from it.
