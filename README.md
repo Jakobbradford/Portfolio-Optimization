@@ -12,7 +12,7 @@ Creating an array of equally-spaced numbers that will represent our portfolio re
 
 <img width="961" alt="CAP PO" src="https://user-images.githubusercontent.com/83718882/121433101-8a98d700-c949-11eb-9d30-5af2bdf19cad.png">
 
-I chose to compare an optimal return portfolio against an equally weighted portfolio of the same stocks. This helps to ensure that my model's portfolio will outperform a basic strategy. By visualizing both portfolios on a monthly cumulative basis we see the optimal weight portfolio has a highest return, which indicates that we can proceed with the analysis. 
+I chose to compare an optimal return portfolio against an equally weighted portfolio of the same stocks. This helps to ensure that my model's portfolio will outperform a basic strategy. By visualizing both portfolios on a monthly cumulative basis we see the optimal weight portfolio has a higher return, which indicates that we can proceed with the analysis. 
 
 <img width="930" alt="Portfolio PO" src="https://user-images.githubusercontent.com/83718882/121433109-8cfb3100-c949-11eb-8c1a-ecdf26d554c7.png">
 
@@ -49,4 +49,4 @@ Kurtosis:                       2.847   Cond. No.                         64.1
 ```
 
 **Conclusion**
-To further this analysis it would be useful to build models for other trading strategies. Additionally, selecting stocks using a non-random method would allow for greater real world implications to be drawn from it.
+Although the trading strategies employed in this analysis were simple, it highlights the FF 4-factor model's efficacy in evaluating trading strategies. To further this analysis it would be useful to build models for other trading strategies. Additionally, selecting stocks using a non-random method would allow for greater real world implications to be drawn from it.
