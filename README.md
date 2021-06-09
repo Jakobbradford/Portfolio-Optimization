@@ -8,18 +8,16 @@ I first look at the returns for stocks (daily, monthly, annually and cumulativel
 
 I then define the portfolio functions which will generate optimal weights, standard deviation and negative Sharpe Ratio function that we will minimize.
 
-Creating an array of equally-spaced numbers that will represent our portfolio returns and annotate the five stocks on the plot allows us to visualize the Capital Allocation Line
+Creating an array of equally-spaced numbers that will represent our portfolio returns and annotating the five stocks on the plot allows us to visualize the Capital Allocation Line
 
 <img width="961" alt="CAP PO" src="https://user-images.githubusercontent.com/83718882/121433101-8a98d700-c949-11eb-9d30-5af2bdf19cad.png">
 
+I chose to compare an optimal return portfolio against an equally weighted portfolio of the same stocks. This helps to ensure that my model's portfolio will outperform a basic strategy. By visualizing both portfolios on a monthly cumulative basis we see the optimal weight portfolio has a highest return, which indicates that we can proceed with the analysis. 
 
 <img width="930" alt="Portfolio PO" src="https://user-images.githubusercontent.com/83718882/121433109-8cfb3100-c949-11eb-8c1a-ecdf26d554c7.png">
 
 
-Determines the optimal weights of five random stocks in a portfolio employing simple trading strategy. Runs a Fama French 4 factor simulation on two portfolios, equal weight and optimal weight to determine the most effective trading strategy.
-
-
-
+Next I run a Fama French 4 factor simulation on two portfolios, equal weight and optimal weight to determine the most effective trading strategy. To further this analysis it would be useful to build models for other trading strategies. Additionally, selecting stocks using a non-random method would allow for greater real world implications to be drawn from it.
 
 
 ```
