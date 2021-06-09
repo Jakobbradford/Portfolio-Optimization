@@ -7,6 +7,8 @@ I first look at the returns for stocks (daily, monthly, annually and cumulativel
 <img width="947" alt="returns image PO" src="https://user-images.githubusercontent.com/83718882/121433084-853b8c80-c949-11eb-8fa5-c6215a289fe9.png">
 
 
+Then taking a random sample of stocks from 2012 to 2016, determine return, standard deviation and sharpe ratio for these stocks and capture them in a DataFrame.
+
 <img width="961" alt="CAP PO" src="https://user-images.githubusercontent.com/83718882/121433101-8a98d700-c949-11eb-9d30-5af2bdf19cad.png">
 
 
