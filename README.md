@@ -2,6 +2,7 @@
 
 **Problem:** How does an optimally weighted portfolio compare to other asset allocation strategies?
 
+I first look at the returns for stocks (daily, monthly, annually and cumulatively), then visualize them using a simple histogram.
 
 <img width="947" alt="returns image PO" src="https://user-images.githubusercontent.com/83718882/121433084-853b8c80-c949-11eb-8fa5-c6215a289fe9.png">
 
